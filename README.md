@@ -378,3 +378,4 @@ For issues or questions:
 ---
 
 **Built for Pickabook - Making every child the hero of their own story** 📚✨
+<img width="2671" height="1567" alt="Screenshot 2025-12-10 163435" src="https://github.com/user-attachments/assets/a8849a8c-a5f9-469c-b1c9-effe4bd34e7a" />
